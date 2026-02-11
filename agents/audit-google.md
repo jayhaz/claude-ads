@@ -62,7 +62,6 @@ These checks have severity multiplier 5.0x — failure here dominates the score:
 - G16: Wasted spend on irrelevant terms (<5%)
 - G17: No Broad Match + Manual CPC
 - G05: Brand vs non-brand separation
-- G38: Learning phase status
 - G37: Target CPA/ROAS within 20% of historical
 
 ## Key Thresholds
