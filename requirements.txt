@@ -1,0 +1,4 @@
+# Claude Ads - Dependencies
+# No Python dependencies required.
+# Claude Ads is a pure Claude Code skill (markdown-based).
+# All analysis is performed by Claude's reasoning capabilities.

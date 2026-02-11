@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Node (if ever needed for tooling)
+node_modules/
+
+# Output reports (generated at runtime, not part of the skill)
+ADS-AUDIT-REPORT.md
+ADS-ACTION-PLAN.md
+ADS-QUICK-WINS.md
+GOOGLE-ADS-REPORT.md
+META-ADS-REPORT.md
+YOUTUBE-ADS-REPORT.md
+LINKEDIN-ADS-REPORT.md
+TIKTOK-ADS-REPORT.md
+MICROSOFT-ADS-REPORT.md
+
+# Internal QA artifacts
+AUDIT-REPORT.md
