@@ -35,6 +35,12 @@ cd claude-ads
 .\install.ps1         # Windows PowerShell
 ```
 
+## Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Claude Ads Demo" width="100%">
+</p>
+
 ## Quick Start
 
 ```bash
