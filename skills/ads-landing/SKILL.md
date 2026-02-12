@@ -1,6 +1,5 @@
 ---
 name: ads-landing
-user-invocable: false
 description: >
   Landing page quality assessment for paid advertising campaigns. Evaluates
   message match, page speed, mobile experience, trust signals, form

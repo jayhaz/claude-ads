@@ -1,6 +1,5 @@
 ---
 name: ads-competitor
-user-invocable: false
 description: >
   Competitor ad intelligence analysis across Google, Meta, LinkedIn, TikTok,
   and Microsoft. Analyzes competitor ad copy, creative strategy, keyword

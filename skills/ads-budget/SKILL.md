@@ -1,6 +1,5 @@
 ---
 name: ads-budget
-user-invocable: false
 description: >
   Budget allocation and bidding strategy review across all ad platforms.
   Evaluates spend distribution, bidding strategy appropriateness, scaling

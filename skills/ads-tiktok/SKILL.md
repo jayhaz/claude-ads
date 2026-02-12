@@ -1,6 +1,5 @@
 ---
 name: ads-tiktok
-user-invocable: false
 description: >
   TikTok Ads deep analysis covering creative quality, tracking, bidding,
   campaign structure, and TikTok Shop. Evaluates 25 checks with emphasis on

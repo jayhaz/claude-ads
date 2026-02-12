@@ -1,6 +1,5 @@
 ---
 name: ads-audit
-user-invocable: false
 description: >
   Full multi-platform paid advertising audit with parallel subagent delegation.
   Analyzes Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, and Microsoft Ads

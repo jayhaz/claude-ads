@@ -1,6 +1,5 @@
 ---
 name: ads-plan
-user-invocable: false
 description: >
   Strategic paid advertising planning with industry-specific templates.
   Covers platform selection, campaign architecture, budget planning,

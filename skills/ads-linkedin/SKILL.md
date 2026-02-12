@@ -1,6 +1,5 @@
 ---
 name: ads-linkedin
-user-invocable: false
 description: >
   LinkedIn Ads deep analysis for B2B advertising. Evaluates 25 checks across
   technical setup, audience targeting, creative quality, lead gen forms, and

@@ -1,6 +1,5 @@
 ---
 name: ads-google
-user-invocable: false
 description: >
   Google Ads deep analysis covering Search, Performance Max, Display, YouTube,
   and Demand Gen campaigns. Evaluates 74 checks across conversion tracking,

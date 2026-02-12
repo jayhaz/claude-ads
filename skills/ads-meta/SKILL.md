@@ -1,6 +1,5 @@
 ---
 name: ads-meta
-user-invocable: false
 description: >
   Meta Ads deep analysis covering Facebook and Instagram advertising.
   Evaluates 46 checks across Pixel/CAPI health, creative diversity and fatigue,
