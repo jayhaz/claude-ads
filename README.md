@@ -4,6 +4,8 @@
 
 # Claude Ads
 
+https://www.youtube.com/watch?v=Kf7ejOtl5KU
+
 Comprehensive paid advertising audit and optimization skill for Claude Code. Covers Google Ads, Meta Ads, YouTube Ads, LinkedIn Ads, TikTok Ads, and Microsoft Ads with 190 audit checks, industry-specific templates, and parallel subagent delegation.
 
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/claude-code)
